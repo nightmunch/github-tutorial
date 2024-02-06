@@ -3,10 +3,10 @@
 [o] Install/Register Codeium
 [x] Install Git
 [] Basic Git
-    [] Git clone
-    [] Git add
+    [x] Git clone
+    [x] Git add
     [] Git commit
-    [x] Git push
+    [] Git push
     [] Git pull
 [] Exercise, create own page using HTML, CSS and JS. Must contain name, university and hobbies
     [] name
@@ -18,3 +18,4 @@
 Sara's comment:
 Hani's comment:
 Zati's comment:
+Amin's comment: heh.
