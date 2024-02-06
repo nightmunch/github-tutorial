@@ -13,3 +13,5 @@ def best_fit_line(x, y):
     plt.scatter(x, y)
     plt.plot(line_x, line_y, color='red')
     plt.show()
+
+    # acah iler do dak data science ni
